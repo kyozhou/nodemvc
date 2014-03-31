@@ -1,0 +1,10 @@
+{
+    "name": "nodemvc",
+    "description": "nodejs mvc framework by kyozhou@sina.com",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "express": "*",
+        "fibers": "*",
+    }
+}
